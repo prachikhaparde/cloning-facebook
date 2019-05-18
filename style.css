@@ -1,0 +1,174 @@
+*{
+      padding: 0px;
+      margin:  0px;	 	
+}
+header 
+{
+      background-color: #415e9b;
+      height: 82px;
+      border-bottom: 1px solid #133783; 
+}
+body
+{
+      background-color: #EBF3FC;
+}
+.logo
+{
+      width: 50%;
+      float: left;
+}
+.header-control
+{
+      width: 992px;
+      margin: 0 auto;
+      padding-top: 20px	
+}
+.header-control label
+{
+      color: #fff;	
+}
+.logo 
+{
+      padding-top: 10px;
+      padding-bottom: 20px;
+}
+.facebook-login
+{
+      width: 50%; 
+      float: left;
+}
+.email
+{
+      float: left;
+}
+.email label
+{
+      padding-bottom: 10px;
+}
+.email input[type="text"] 
+{
+      height: 20px;
+      width: 150px;   
+      border: 1px solid #1d2a5b;  
+}
+.password
+{
+      float: left;
+      margin-left: 15px;
+}
+.password label
+{
+      padding-bottom: 10px;
+}
+.password a 
+{
+      color: #fff;
+      text-decoration: none;
+}
+.password input[type="password"]
+{
+      height: 20px;
+      width: 150px; 
+      border: 1px solid #1d2a5b;
+}
+.login-button input[type="submit"]
+{
+       float: left;
+       margin-top: 1px;
+       margin-left: 0px;
+       background: #4267b2;
+       border: 1px solid #29487d;
+       border-radius: 2px;
+       color: #fff;
+       height: 20px;
+       width: 50px;
+}
+.content
+{
+       width: 992px;
+       margin: 0 auto;
+}
+.facebook-connect
+{
+        margin-top: 60px;
+        float: left;
+        width: 59%	
+}
+.create-account
+{
+  	float : left;
+        width: 39%;
+        margin-top: 50px;
+}
+.account input[type = "text"] 
+{       
+        
+        margin-buttom: 15px;
+        border-radius: 5px;
+        padding: 10px; 
+}
+.account input[type = "password"]
+{ 
+        
+        margin-buttom: 15px;
+        border-radius: 5px;
+        padding: 10px;
+        font-size: 16px;
+        margin-left: 0px;
+}
+.account.moblie,.account.password
+{
+        width: 84% |important;
+}
+.account label
+{
+        font-weight: bold;
+        font-size: 16px;
+        margin-bottom: 15px;
+}
+.account a 
+{
+        text-decoration: none;
+        color: #3677bc;
+}
+.account input [type = "radio"]
+{
+        margin-top: 20px;
+        margin-bottom: 20px;
+}
+.account input [type = "submit"]
+{
+        padding: 15px 22px;
+        background:linear-gradient(#95d67c,#65a953);
+        border: 1px solid #3b6e22;
+        border-radius: 5px;
+        font-size: 25px;
+        color: #fff;
+        margin-top: 15px;
+        margin-bottom: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
